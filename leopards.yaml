@@ -17,3 +17,4 @@ members:
 - by SSH
 - signed : gpg 
 - signed : gpg2 
+- signed : gpg3 
