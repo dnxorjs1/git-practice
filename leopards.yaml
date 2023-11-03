@@ -16,3 +16,4 @@ members:
 - Hook
 - by SSH
 - signed : gpg 
+- signed : gpg2 
